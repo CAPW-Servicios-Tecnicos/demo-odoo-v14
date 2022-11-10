@@ -1,0 +1,4 @@
+[submodule "CAPW-Servicios-Tecnicos/l10n-dominicana"]
+	path = CAPW-Servicios-Tecnicos/l10n-dominicana
+	url = git@github.com:CAPW-Servicios-Tecnicos/l10n-dominicana.git
+	branch = 14.0
